@@ -1,1 +1,3 @@
 Program to remote control robot tx8 with a joystick.
+
+It depends in Joystick Wrapper library
